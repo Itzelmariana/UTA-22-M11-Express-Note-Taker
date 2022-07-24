@@ -10,10 +10,12 @@ Acceptance Criteria
 
 - Lading plage with a link to a note page.
 - Note page has listed in the left-hand column existing notes and in the right hand empty fields to enter a new note title and the note’s text.
-- It must show a save icon when a new note title and text is inserted, which would be moved to the right colum if it is saved and shown in the right colum if you click on them.
+- It must show a save icon when a new note title and text is inserted, which would be moved to the left colum if it is saved and shown in the right colum when you click on them.
 - Write icon should be presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 ## Usage
+
+Find deployed website at [link](https://notexpress.herokuapp.com)
 
 Mock up
 
@@ -37,3 +39,4 @@ The technologies used in this project are as follow:
 - Node.js
 - Markdown
 - Express
+- Heroku
